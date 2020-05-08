@@ -1,7 +1,7 @@
 # Distributed-Computing-projects
 CS 6380 - Distributed Computing - projects
 
-Asynchronous BFS Tree:
+1. Asynchronous BFS Tree:
 
 The program uses a separate input file to read the user data.
 
